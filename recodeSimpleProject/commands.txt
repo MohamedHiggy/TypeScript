@@ -1,0 +1,3 @@
+tsc --init //create tsconfig.json
+npm install webpack webpack-cli ts-loader -D //to install webpack webpack-cli ts-loader
+npm install webpack-dev-server -D //to install npm install webpack-dev-server 
